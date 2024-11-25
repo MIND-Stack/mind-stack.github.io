@@ -10,7 +10,9 @@
 
 ## 1. Start Here: 
 ### 1.1 Create a new github organization
-First, click your github profile image, on the pop up panel, find ```Your Organizations``` button and click it. Then click ```New organization``` to create a new, free organization named example-project-999 (just give your organization with any unique name), from now on, we use ```example-project-999``` as the example:
+First, click your github profile image, on the pop up panel, find ```Your Organizations``` button and click it. Then click ```New organization``` to create a new, free organization named ```example-project-999``` (just give your organization with any unique name), from now on, we use ```example-project-999``` as the example:
+
+![DualAD Framework](./sources/create_org.png)
 
 ### 1.2 Create website repo from import
 Within the just built organization, import paper-website repo to create a new repo with name: ```example-project-999.github.io```, link to be imported is below:
