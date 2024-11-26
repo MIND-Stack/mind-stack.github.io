@@ -8,6 +8,13 @@
 
 [**TL;DR**] This repo contains a starter tutorial to build the paper website which aims to convey the concept of papers in a more straightforward, intuitive and easy-to-understand way.
 
+<div align="center">   
+
+![framework](./sources/framework.png)
+The framework for a website related paper & code project.
+
+</div>
+
 ## Table of Contents
 - [1. Start Here](#1-start-here)
   - [1.1 Create a new GitHub organization](#11-create-a-new-github-organization)
@@ -22,14 +29,12 @@
 
 ## 1. Start Here: 
 ### 1.1 Create a new github organization
-![create_org](./sources/create_org.png)
-
 First, click your github profile image, on the pop up panel, find ```Your Organizations``` button and click it. Then click ```New organization``` to create a new, free organization named ```example-project-999``` (just give your organization with any unique name), from now on, we use ```example-project-999``` as the example:
 
-
+![create_org](./sources/create_org.png)
 
 ### 1.2 Create website repo from import
-![repo_setting](./sources/repo_setting.png)
+
 
 Within the just built organization, import paper-website repo to create a new repo with your unique org name appended with ```.github.io```, the result looks like: ```example-project-999.github.io```, link to be imported is below:
 
@@ -39,9 +44,13 @@ https://github.com/paper-website/paper-website.github.io
 
 Make sure your choose your organization correctly and name your webiste repo properly. Then click ```Begin Import```. This will take several minutes to for remote server to compile.
 
+![repo_setting](./sources/repo_setting.png)
+
 ### 1.3 Deploy the website
-![deploy_web](./sources/deploy_web.png)
+
 Now you can deploy the website and just wait for a few minutes, you can get to the setting page option, your will find the generated website link.
+
+![deploy_web](./sources/deploy_web.png)
 
 ## 2. Play with it: 
 ### 2.0 Modify your website locally
